@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://talentra-interviewer-platform.vercel.app" target="_blank">
+  <a href="https://mbilalhussain-talentra-ip.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live Demo-Visit Now-6366f1?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
@@ -27,16 +27,23 @@
 
 ## ✨ Features
 
-- 🧑‍💻 **VSCode-Powered Code Editor** — Monaco editor with syntax highlighting for JS, Python & Java
-- 🎥 **1-on-1 Video Interview Rooms** — Real-time video with mic/camera toggle, screen sharing & recording
-- 💬 **Live Chat** — In-session messaging powered by Stream Chat
-- 🔐 **Authentication** — Secure sign-in via Clerk (Email + Google)
-- 🧭 **Dashboard** — Live stats, active sessions, and recent interview history
-- 🎯 **Auto Feedback** — Pass/Fail result based on test cases with confetti on success
-- 🧩 **Practice Mode** — Solo coding problems page for individual practice
-- 🔒 **Room Locking** — Only 2 participants allowed per interview session
-- 🧠 **Background Jobs** — Async task processing with Inngest
-- ⚡ **Optimized Data Fetching** — TanStack Query for caching and server state
+- 🧑‍💻 **VSCode-Powered Code Editor**
+- 🔐 **Authentication via Clerk**
+- 🎥 **1-on-1 Video Interview Rooms**
+- 🧭 **Dashboard with Live Stats**
+- 🔊 **Mic & Camera Toggle, Screen Sharing & Recording**
+- 💬 **Real-time Chat Messaging**
+- ⚙️ **Secure Code Execution in Isolated Environment**
+- 🎯 **Auto Feedback — Success / Fail based on test cases**
+- 🎉 **Confetti on Success + Notifications on Fail**
+- 🧩 **Practice Problems Page (solo coding mode)**
+- 🔒 **Room Locking — allows only 2 participants**
+- 🧠 **Background Jobs with Inngest (async tasks)**
+- 🧰 **REST API with Node.js & Express**
+- ⚡ **Data Fetching & Caching via TanStack Query**
+- 🤖 **CodeRabbit for PR Analysis & Code Optimization**
+- 🧑‍💻 **Git & GitHub Workflow (branches, PRs, merges)**
+- 🚀 **Deployment on Render & Vercel (free-tier friendly)**
 
 ---
 
@@ -151,7 +158,7 @@ Talentra-Interviewer-Platform/
 
 | Service | Platform | URL |
 |---------|----------|-----|
-| Frontend | Vercel | [talentra-interviewer-platform.vercel.app](https://talentra-interviewer-platform.vercel.app) |
+| Frontend | Vercel | [talentra-interviewer-platform.vercel.app](https://mbilalhussain-talentra-ip.vercel.app) |
 | Backend | Render | [talentra-interviewer-platform.onrender.com](https://talentra-interviewer-platform.onrender.com) |
 
 ---
